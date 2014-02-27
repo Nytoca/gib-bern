@@ -1,4 +1,5 @@
 #!/bin/bash
+# Autor: Nytoca <info@nytoca.ch>
 #
 
 database="$PWD/pinguin_auto.db"

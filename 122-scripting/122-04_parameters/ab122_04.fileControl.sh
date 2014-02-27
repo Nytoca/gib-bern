@@ -1,4 +1,5 @@
 #!/bin/bash
+# Autor: Nytoca <info@nytoca.ch>
 #
 
 if [ $# -ne 2 ]; then
