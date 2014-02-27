@@ -1,4 +1,5 @@
 #!/bin/bash
+# Autor: Nytoca <info@nytoca.ch>
 #
 
 a=$1

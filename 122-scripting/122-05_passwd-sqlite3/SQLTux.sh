@@ -1,4 +1,6 @@
 #!/bin/bash
+# Autor: Nytoca <info@nytoca.ch>
+#
 
 database="$PWD/linuxusers.db"
 tablename="LinuxUsers"

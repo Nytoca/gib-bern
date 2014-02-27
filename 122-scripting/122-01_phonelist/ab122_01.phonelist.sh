@@ -1,4 +1,7 @@
 #!/bin/bash
+# Autor: Nytoca <info@nytoca.ch>
+#
+
 echo "Insert Names"
 read name
 
